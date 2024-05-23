@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    gap: 20px;
+    gap: 40px;
 }
 h1 {
     color: white;
